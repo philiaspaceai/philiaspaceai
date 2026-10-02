@@ -6,8 +6,8 @@
 (non-profit) dengan tiga peran:
 
 - 📚 **Tempat belajar bareng** — diskusi, latihan, dan berbagi pengalaman belajar bahasa Jepang.
-- 🛠️ **Tempat mengembangkan tools & resource belajar** — kamus, bot latihan JLPT,
-  hingga skill AI agent, semuanya open-source.
+- 🛠️ **Tempat mengembangkan tools & resource belajar** — kamus, deck Anki,
+  bot latihan JLPT, hingga skill AI agent, semuanya open-source.
 - 🌍 **Tempat menampung dan mengkurasi resource** dari berbagai komunitas luar negeri
   seperti [TheMoeWay](https://learnjapanese.moe), agar mudah ditemukan dan dipakai
   pejuang bahasa Jepang Indonesia.
