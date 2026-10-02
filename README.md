@@ -5,6 +5,7 @@ Komunitas **non-profit dari Indonesia** yang berfokus pada pengembangan
 
 🌐 Website: <http://philiaspace.my.id>
 💬 Discord: <https://discord.gg/Ras7MZm8ws>
+☕ Dukung kami: <https://trakteer.id/philiaanimelist/tip>
 
 ## 🚀 Proyek Unggulan
 
@@ -37,4 +38,5 @@ Kuasai Hiragana dan Katakana lewat pengulangan spaced-repetition yang elegan.
 
 Punya ide tools belajar bahasa Jepang? Suka ngoding atau suka bahasa Jepang?
 Kontribusi selalu terbuka — gabung [Discord kami](https://discord.gg/Ras7MZm8ws),
-kunjungi website kami, atau buka issue di salah satu repo di atas. ✨
+kunjungi website kami, dukung lewat [Trakteer](https://trakteer.id/philiaanimelist/tip),
+atau buka issue di salah satu repo di atas. ✨
