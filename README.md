@@ -32,10 +32,6 @@ Kuasai Hiragana dan Katakana lewat pengulangan spaced-repetition yang elegan.
 
 ➡️ <https://github.com/philiaspaceai/philia-shizen>
 
-## 📊 Statistik
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philiaspaceai&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight)
-
 ## 📫 Bergabung & Kontak
 
 Punya ide tools belajar bahasa Jepang? Suka ngoding atau suka bahasa Jepang?
