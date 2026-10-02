@@ -1,5 +1,7 @@
 # Philia Space Community 🇮🇩🇯🇵
 
+![Philia Space banner](./assets/banner.gif)
+
 Komunitas **non-profit dari Indonesia** yang berfokus pada pengembangan
 **tools belajar bahasa Jepang** — kamus, bot latihan JLPT, hingga skill AI agent.
 
