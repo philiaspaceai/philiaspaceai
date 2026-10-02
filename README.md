@@ -5,9 +5,7 @@
 Komunitas **non-profit dari Indonesia** yang berfokus pada pengembangan
 **tools belajar bahasa Jepang** — kamus, bot latihan JLPT, hingga skill AI agent.
 
-🌐 Website: <http://philiaspace.my.id>
-💬 Discord: <https://discord.gg/Ras7MZm8ws>
-☕ Dukung kami: <https://trakteer.id/philiaanimelist/tip>
+[🌐](http://philiaspace.my.id) [💬](https://discord.gg/Ras7MZm8ws) [☕](https://trakteer.id/philiaanimelist/tip)
 
 ## 🚀 Proyek Unggulan
 
