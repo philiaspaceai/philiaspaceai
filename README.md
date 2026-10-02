@@ -4,6 +4,7 @@ Komunitas **non-profit dari Indonesia** yang berfokus pada pengembangan
 **tools belajar bahasa Jepang** — kamus, bot latihan JLPT, hingga skill AI agent.
 
 🌐 Website: <http://philiaspace.my.id>
+💬 Discord: <https://discord.gg/Ras7MZm8ws>
 
 ## 🚀 Proyek Unggulan
 
@@ -35,4 +36,5 @@ Kuasai Hiragana dan Katakana lewat pengulangan spaced-repetition yang elegan.
 ## 📫 Bergabung & Kontak
 
 Punya ide tools belajar bahasa Jepang? Suka ngoding atau suka bahasa Jepang?
-Kontribusi selalu terbuka — kunjungi website kami atau buka issue di salah satu repo di atas. ✨
+Kontribusi selalu terbuka — gabung [Discord kami](https://discord.gg/Ras7MZm8ws),
+kunjungi website kami, atau buka issue di salah satu repo di atas. ✨
