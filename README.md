@@ -34,8 +34,7 @@ Kuasai Hiragana dan Katakana lewat pengulangan spaced-repetition yang elegan.
 
 ## 📊 Statistik
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philiaspaceai&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philiaspaceai&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philiaspaceai&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight)
 
 ## 📫 Bergabung & Kontak
 
